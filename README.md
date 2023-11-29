@@ -3,17 +3,22 @@
 I'm Ahmed Chelly.
 I'm a passionate software developer from Tunisia.
 
-I like using React.js for Web Development and React Native for Mobile Development. But I'm always interested in discovering and using new technologies.
+🚀 I thrive on building awesome things with technology. My weapons of choice are React.js for web development and React Native for mobile applications. I'm always on the lookout for new and exciting technologies to explore and incorporate into my projects.
 
-I enjoy solving competitive programming problems, and to do so I usually use Python.
+💻 My favorite projects are:
 
-## The projects I'm proud of the most are:
-[Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
+- [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
+- [Roommie](https://github.com/ChellyAhmed/roommie): A roommate matching platform created using ReactJs, an ExpressJs server, and a SQL Database
+- [ModernCoffee](https://github.com/ChellyAhmed/modernCoffee): A smart coffee mug project that tracks data about the coffee through various sensors, analyzes it, and provides - insights on a dashboard accessible online.
+- [QuizGame](https://github.com/ChellyAhmed/quizGame/): A console-based trivia quiz game that can be played between multiple hosts at the same time connected via sockets, entirely coded with Python.
 
-[Roommie](https://github.com/ChellyAhmed/roommie): A roommate matching platform created using ReactJs, an ExpressJs server, and a SQL Database
+🧠 I also enjoy solving competitive programming problems and to do so, I usually use Python.
 
-[ModernCoffee](https://github.com/ChellyAhmed/modernCoffee): A smart coffee mug project that tracks data about the coffee through various sensors, analyzes it, and provides insights on a dashboard accessible online.
+🌐 Feel free to explore my projects and provide any feedback or suggestions. Let's connect and build something amazing together!
 
+⚡ Fun fact: I have a deep appreciation for open-source software, and I'm proud to have contributed to Bootstrap, my favorite front-end framework.
+
+Happy coding! ✨
 
 <!--
 **ChellyAhmed/ChellyAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
