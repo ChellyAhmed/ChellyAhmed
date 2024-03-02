@@ -9,7 +9,7 @@ I'm a passionate software developer from Tunisia.
 
 - [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
 - [Roommie](https://github.com/ChellyAhmed/roommie): A roommate matching platform created using ReactJs, an ExpressJs server, and a SQL Database
-- [ModernCoffee](https://github.com/ChellyAhmed/modernCoffee): A smart coffee mug project that tracks data about the coffee through various sensors, analyzes it, and provides - insights on a dashboard accessible online.
+- [Mastermind](https://github.com/ChellyAhmed/mastermind): A knowledge-based AI Agent developed with Python to play the game Mastermind on console.
 - [QuizGame](https://github.com/ChellyAhmed/quizGame/): A console-based trivia quiz game that can be played between multiple hosts at the same time connected via sockets, entirely coded with Python.
 
 🧠 I also enjoy solving competitive programming problems and to do so, I usually use Python.
