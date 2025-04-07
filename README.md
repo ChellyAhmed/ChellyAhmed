@@ -1,11 +1,11 @@
-## Hi ^_^!
+## Hi!
 
 I'm Ahmed Chelly.
 I'm a passionate software developer from Tunisia.
 
-🚀 I thrive on building awesome things with technology. My weapons of choice are React.js for web development and React Native for mobile applications. I'm always on the lookout for new and exciting technologies to explore and incorporate into my projects.
+🚀 I thrive on building awesome things with technology.
 
-💻 My favorite projects are:
+💻 My favorite (old) projects are:
 
 - [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
 - [Roommie](https://github.com/ChellyAhmed/roommie): A roommate matching platform created using ReactJs, an ExpressJs server, and a SQL Database
