@@ -5,12 +5,11 @@ I'm a passionate software developer from Tunisia.
 
 🚀 I thrive on building awesome things with technology.
 
-💻 My favorite (old) projects are:
+💻 This is where I push the cool stuff I do while learning as a student/hobbyist. Here you'll find old and simple projects, but they're really cool! For instance:
 
-- [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
-- [Roommie](https://github.com/ChellyAhmed/roommie): A roommate matching platform created using ReactJs, an ExpressJs server, and a SQL Database
 - [Mastermind](https://github.com/ChellyAhmed/mastermind): A knowledge-based AI Agent developed with Python to play the game Mastermind on console.
 - [QuizGame](https://github.com/ChellyAhmed/quizGame/): A console-based trivia quiz game that can be played between multiple hosts at the same time connected via sockets, entirely coded with Python.
+- [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
 
 🧠 I also enjoy solving competitive programming problems and to do so, I usually use Python.
 
