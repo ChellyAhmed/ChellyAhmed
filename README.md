@@ -7,6 +7,7 @@ I'm a passionate software developer from Tunisia.
 
 💻 This is where I push the cool stuff I do while learning as a student/hobbyist. Here you'll find old and simple projects, but they're really cool! For instance:
 
+- [AiReal](https://github.com/ChellyAhmed/aiReal): A Convolutional Neural Network trained to discriminate between AI-generated and real images
 - [Mastermind](https://github.com/ChellyAhmed/mastermind): A knowledge-based AI Agent developed with Python to play the game Mastermind on console.
 - [QuizGame](https://github.com/ChellyAhmed/quizGame/): A console-based trivia quiz game that can be played between multiple hosts at the same time connected via sockets, entirely coded with Python.
 - [Chelly](https://github.com/ChellyAhmed/Chelly): My personal portfolio website created using ReactJs
